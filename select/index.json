@@ -1,0 +1,104 @@
+{
+  "version": 1,
+  "base_track": "センチメートル",
+  "base_artist": "the peggies",
+  "createdAt": "2026-03-06T05:33:28.386903Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "センチメートル",
+      "artist": "the peggies",
+      "has_synced": true,
+      "path": "select/01_センチメートル_the_peggies.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "センチメートル",
+      "artist": "the peggies",
+      "has_synced": true,
+      "path": "select/02_センチメートル_the_peggies.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "the peggies「センチメートル」Music Video",
+      "artist": "the peggies",
+      "has_synced": true,
+      "path": "select/03_the_peggies「センチメートル」Music_Video_the_peggies.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "センチメートル - Centimeter",
+      "artist": "the peggies",
+      "has_synced": true,
+      "path": "select/04_センチメートル_-_Centimeter_the_peggies.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "センチメートル (remastered 2022)",
+      "artist": "the peggies",
+      "has_synced": true,
+      "path": "select/05_センチメートル_(remastered_2022)_the_peggies.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "純情cm(センチメートル)",
+      "artist": "Tsubaki Factory",
+      "has_synced": false,
+      "path": "select/06_純情cm(センチメートル)_Tsubaki_Factory.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "センチメートル",
+      "artist": "7!!",
+      "has_synced": false,
+      "path": "select/07_センチメートル_7!!.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "センチメートル",
+      "artist": "the peggies",
+      "has_synced": true,
+      "path": "select/08_センチメートル_the_peggies.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "センチメートル",
+      "artist": "the peggies",
+      "has_synced": true,
+      "path": "select/09_センチメートル_the_peggies.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "41.センチメートル",
+      "artist": "the peggies",
+      "has_synced": true,
+      "path": "select/10_41.センチメートル_the_peggies.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "純情cm(センチメートル)",
+      "artist": "つばきファクトリー",
+      "has_synced": false,
+      "path": "select/11_純情cm(センチメートル)_つばきファクトリー.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "センチメートル",
+      "artist": "the peggies",
+      "has_synced": false,
+      "path": "select/pl_01_センチメートル_the_peggies.txt"
+    }
+  ]
+}
